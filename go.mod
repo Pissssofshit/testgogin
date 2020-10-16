@@ -23,6 +23,4 @@ replace (
 	github.com/Pissssofshit/testgogin/models => ./models
 	github.com/Pissssofshit/testgogin/pkg/setting => ./pkg/setting
 
-	github.com/Pissssofshit/testgogin/routers/api/v => ./routers/api/v
-
 )
