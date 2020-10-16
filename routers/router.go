@@ -2,7 +2,7 @@ package routers
 
 import (
 	"github.com/Pissssofshit/testgogin/pkg/setting"
-	"github.com/Pissssofshit/testgogin/routers/api/v1"
+	"github.com/Pissssofshit/testgogin/routers/api/v"
 	"github.com/gin-gonic/gin"
 )
 
