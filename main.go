@@ -2,10 +2,9 @@ package main
 
 import (
 	"fmt"
-	"net/http"
-
 	"github.com/Pissssofshit/testgogin/setting"
 	"github.com/gin-gonic/gin"
+	"net/http"
 )
 
 func main() {
