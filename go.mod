@@ -16,3 +16,14 @@ require (
 	google.golang.org/protobuf v1.25.0 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 )
+
+replace (
+	github.com/Pissssofshit/testgogin/conf => ../conf
+	github.com/Pissssofshit/testgogin/middleware => ../middleware
+	github.com/Pissssofshit/testgogin/models => ../models
+	github.com/Pissssofshit/testgogin/pkg/setting => ../pkg/setting
+
+	github.com/Pissssofshit/testgogin/routers/api => /Users/xiaoshuaihuang/study/gopro/testgogin/routers/api
+	github.com/Pissssofshit/testgogin/routers/api/v1/ => /Users/xiaoshuaihuang/study/gopro/testgogin/routers/api/v1
+
+)

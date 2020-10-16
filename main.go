@@ -2,9 +2,8 @@ package main
 
 import (
 	"fmt"
+	"github.com/Pissssofshit/testgogin/pkg/setting"
 	"github.com/Pissssofshit/testgogin/routers"
-	"github.com/Pissssofshit/testgogin/setting"
-	"github.com/gin-gonic/gin"
 	"net/http"
 )
 
